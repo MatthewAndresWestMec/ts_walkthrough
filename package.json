@@ -1,0 +1,15 @@
+{
+  "name": "ts_walkthrough",
+  "version": "1.0.0",
+  "description": "Type Script walkthrough",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matthew Andres <mandre361@west-mec.edu> (https://github.com/MatthewAndresWestMec)",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}
